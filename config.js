@@ -14,7 +14,7 @@ module.exports = {
    LOGS: toBool(process.env.LOGS) || true,
    ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
    BRANCH: "master",
-   WARN_COUNT: 3,
+   WARN_COUNT: 2,
    AUTHOR: process.env.AUTHOR || "ғxᴏᴘ-ᴍᴅ",
    ANTIWORDS: process.env.ANTIWORDS || "badword1,badword2,badword3",
    PACKNAME: process.env.PACKNAME || "ғxᴏᴘ-ᴍᴅ",
